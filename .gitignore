@@ -1,0 +1,6 @@
+Appium.txt
+*.log
+Reports/
+TargetFolderForTest/
+DataFiles/
+
